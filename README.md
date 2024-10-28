@@ -16,7 +16,7 @@
 - 'lemmas' - леммы слов
   
 ## Основные используемые библиотеки 
-- fake_useragent
+- fake_useragent;
 - nltk - токенезация;
 - pymorphy2 - лемматизация;
 - Natasha - POS-теггинг и лемматизация;
